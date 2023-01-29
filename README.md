@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+An Android app for viewing and saving WhatsApp statuses.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
